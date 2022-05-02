@@ -1,4 +1,4 @@
-# About 关于
+## About 关于
 ### CityGuidePro是什么?
 
 City+Guide+Pro
