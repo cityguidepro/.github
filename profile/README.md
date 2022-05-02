@@ -1,5 +1,3 @@
-# developer-resource  
-
 # About 关于
 ### CityGuidePro是什么?
 
@@ -22,3 +20,5 @@ MVP产品设计稿
 
 文档 
 * https://www.notion.so/cgp-inc/Getting-Started-f6df300efc354ba18b694954e378a97c
+
+### developer-resource  
